@@ -3,7 +3,7 @@ My personal portfolio
 
 
 
-## Project 1 - dictionary
+## )[Project 1 - dictionary](https://github.com/yts01/DE-EN-Interactive-Dictionary)
 blah blah blah
 
 
