@@ -16,6 +16,6 @@ Tools that were used in the Project: Pandas, Matplotlib, SKlearn
 4. Multiple Linear Regression
 
 
-![](/images/carat-price.png)      ![](/images/reg-result.png)
+![](/images/reg-result.png)
 
 
