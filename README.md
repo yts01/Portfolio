@@ -11,11 +11,9 @@ Data Source: https://www.kaggle.com/shivam2503/diamonds
 Tools that were used in the Project: Pandas, Matplotlib, SKlearn
 
 1. Inital Data Exploration
-2. 2D Linear Regression Model
-3. Data Preprocessing
-4. Multiple Linear Regression
+2. Data Preprocessing
+2. 2D & Mulitple Linear Regression Model
 
-
-![](/images/reg-result.png)
+![](/images/reg-result.png) ![](/images/carat-price.png)
 
 
