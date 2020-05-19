@@ -12,7 +12,7 @@ Tools that were used in the Project: Pandas, Matplotlib, SKlearn
 
 1. Inital Data Exploration
 2. Data Preprocessing
-2. 2D & Mulitple Linear Regression Model
+2. 2D & Mulitple Linear Regression Models
 
 ![](/images/Capture.PNG)
 
