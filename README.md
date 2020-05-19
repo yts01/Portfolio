@@ -17,3 +17,14 @@ Tools that were used in the Project: Pandas, Matplotlib, SKlearn
 ![](/images/Capture.PNG)
 
 
+## [de/en Interactive Dictionary](https://github.com/yts01/DE-EN-Interactive-Dictionary)
+
+Tools that were used in the Project: MySQL connector, PyQt5
+
+1. Creating MySQL DB
+2. Designing GUI for using the DB; search / insert values.
+3. Connecting the GUI with the DB
+
+![](/images/dictionary.png)
+
+
