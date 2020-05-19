@@ -17,7 +17,7 @@ Tools that were used in the Project: distm, dyplr, lubridate, ggplot
 3. Selecting variables for Linear Regression model.
 4. Predict the number of UBER rides around NYSE.
 
-![](/images/ruber1.PNG)
+![](/images/ruber1.png)
 
 
 
