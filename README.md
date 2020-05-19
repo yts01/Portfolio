@@ -8,7 +8,7 @@ capabilites that I learn along my learning process.
 
 
 
-## [R - Data Analysis & Linear Regression - UBER rides around NYSE](https://github.com/yts01/R---Predicting-UBER-Rides-around-NYSE)
+## [R | Data Analysis & Linear Regression - UBER rides around NYSE](https://github.com/yts01/R---Predicting-UBER-Rides-around-NYSE)
 
 Tools that were used in the Project: distm, dyplr, lubridate, ggplot
 
@@ -21,7 +21,7 @@ Tools that were used in the Project: distm, dyplr, lubridate, ggplot
 
 
 
-## [SKlearn - Linear Regression - Diamond Pricing](https://github.com/yts01/Diamonds-Pricing---SKlearn)
+## [SKlearn | Linear Regression - Diamond Pricing](https://github.com/yts01/Diamonds-Pricing---SKlearn)
 Data Source: https://www.kaggle.com/shivam2503/diamonds
 
 Packages that were used in the Project: Pandas, Matplotlib, SKlearn
@@ -35,7 +35,7 @@ Packages that were used in the Project: Pandas, Matplotlib, SKlearn
 
 
 
-## [de/en Interactive Dictionary](https://github.com/yts01/DE-EN-Interactive-Dictionary)
+## [Pytho | de/en Interactive Dictionary](https://github.com/yts01/DE-EN-Interactive-Dictionary)
 
 Packages that were used in the Project: MySQL connector, PyQt5, PyQt5 Designer kit
 
