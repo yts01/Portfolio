@@ -22,7 +22,7 @@ Packages that were used in the Project: pandas, numpy, matplotlib, seaborn
 
 ## [R | Data Analysis & Linear Regression - UBER rides around NYSE](https://github.com/yts01/R---Predicting-UBER-Rides-around-NYSE)
 
-Tools that were used in the Project: distm, dyplr, lubridate, ggplot
+Packages that were used in the Project: distm, dyplr, lubridate, ggplot
 
 1. Initial Data Exploration.
 2. Data Preprocessing.
