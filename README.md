@@ -6,6 +6,18 @@ capabilites that I learn along my learning process.
 
 
 
+## [Python | Data Analysis - Formula 1 History](https://github.com/yts01/F1-Data-Analysis)
+Data source: https://www.kaggle.com/cjgdev/formula-1-race-data-19502017
+
+Packages that were used in the Project: pandas, numpy, matplotlib, seaborn
+
+1. Data preprocessing.
+2. Static visualizations on some of the main statistics of F1 racing.
+3. Continuous chart for displaying winning & losing streaks.
+
+![](/images/Formula.png)
+
+
 
 
 ## [R | Data Analysis & Linear Regression - UBER rides around NYSE](https://github.com/yts01/R---Predicting-UBER-Rides-around-NYSE)
@@ -35,7 +47,7 @@ Packages that were used in the Project: Pandas, Matplotlib, SKlearn
 
 
 
-## [Pytho | de/en Interactive Dictionary](https://github.com/yts01/DE-EN-Interactive-Dictionary)
+## [Python | de/en Interactive Dictionary](https://github.com/yts01/DE-EN-Interactive-Dictionary)
 
 Packages that were used in the Project: MySQL connector, PyQt5, PyQt5 Designer kit
 
