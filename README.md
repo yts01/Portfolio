@@ -25,6 +25,6 @@ Tools that were used in the Project: MySQL connector, PyQt5
 2. Designing GUI for using the DB; search / insert values.
 3. Connecting the GUI with the DB
 
-![](/images/dictionary.png)
+![](/images/dict.png)
 
 
