@@ -2,7 +2,7 @@
 My projects represent my Data Analysis experience 
 with the help of Python / R tools.
 My motivation for making these mini-projects is to practice new
-capabilites that I learn along my learning process.
+tools that I acquired along my learning process.
 
 
 
