@@ -6,6 +6,19 @@ capabilites that I learn along my learning process.
 
 
 
+## [Classification | SKlearn | Targeting Conversions Potentials](https://github.com/yts01/SKlearn-Classification-Convertsion-Rate)
+
+Packages that were used in the Project: pandas, numpy, matplotlib, sklearn
+
+1. Inital Analysis
+2. Data Preprocessing
+3. Using Different Classification Models;
+   Logistic Regression, K-Nearets Neighbor, Naive Bayes, Decision Tree, Random Forest
+
+![](/images/pic.png)
+
+
+
 ## [Python | Data Analysis - Formula 1 History](https://github.com/yts01/F1-Data-Analysis)
 Data source: https://www.kaggle.com/cjgdev/formula-1-race-data-19502017
 
