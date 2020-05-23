@@ -6,7 +6,7 @@ capabilites that I learn along my learning process.
 
 
 
-## [Classification | SKlearn | Targeting Conversions Potentials](https://github.com/yts01/SKlearn-Classification-Convertsion-Rate)
+## [Classification | SKlearn | Targeting Conversion Potentials](https://github.com/yts01/SKlearn-Classification-Convertsion-Rate)
 
 Packages that were used in the Project: pandas, numpy, matplotlib, sklearn
 
