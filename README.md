@@ -10,8 +10,8 @@ tools that I acquired along my learning process.
 
 Packages that were used in the Project: pandas, numpy, matplotlib, sklearn
 
-1. Inital Analysis
-2. Data Preprocessing
+1. Inital Analysis.
+2. Data Preprocessing.
 3. Using Different Classification Models;
    Logistic Regression, K-Nearets Neighbor, Naive Bayes, Decision Tree, Random Forest
 
