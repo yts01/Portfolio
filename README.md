@@ -15,7 +15,7 @@ Packages that were used in the Project: pandas, numpy, matplotlib, sklearn
 3. Using Different Classification Models;
    Logistic Regression, K-Nearets Neighbor, Naive Bayes, Decision Tree, Random Forest
 
-![](/images/pic.png)
+![](/images/pic.PNG)
 
 
 
